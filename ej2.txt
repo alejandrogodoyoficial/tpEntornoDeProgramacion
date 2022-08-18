@@ -1,7 +1,12 @@
 Hola
 
+<<<<<<< HEAD
 jeje
 
+=======
+
+jeje
+>>>>>>> statsSentences
 
 x
 
