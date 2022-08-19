@@ -21,3 +21,4 @@ Contador de líneas en blanco.
 3. **Tercero:** Ejecutar "docker container run -it -v $(pwd)/text:/text:ro --rm tpEntorno"
 # tpEntornoDeProgramacion
 # tpEntornoDeProgramacion
+# tpEntornoDeProgramacion
